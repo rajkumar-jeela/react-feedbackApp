@@ -6,7 +6,8 @@ const Navigation = () => (
   <>
     <Navbar
       collapseOnSelect
-      expand={false}
+      expand="lg"
+      onClick
       bg="purple heart"
       variant="dark"
       fixed="top"
